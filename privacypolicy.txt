@@ -1,0 +1,48 @@
+---
+
+**1. Privacy Policy**
+
+---
+
+**Bible Games — Privacy Policy**
+
+*Last updated: April 13, 2026*
+
+Bible Games ("the App") is committed to protecting your privacy. This Privacy Policy explains how information is collected, used, and shared when you use the App.
+
+**Information We Collect**
+
+The App itself does not collect, store, or transmit any personal information. All game progress and scores are stored locally on your device and are never sent to any server.
+
+**Third-Party Advertising**
+
+The App uses Google AdMob to display advertisements. AdMob may collect and use certain data to serve personalized or non-personalized ads, including:
+
+- Device identifiers (e.g., Advertising ID)
+- IP address
+- General location (country/region level)
+- App usage data and ad interaction data
+
+For more information on how Google collects and uses data, please review the Google Privacy Policy at https://policies.google.com/privacy.
+
+**Children's Privacy**
+
+The App is designed for users of all ages. We do not knowingly collect personal information from children. Ad content served by Google AdMob is subject to Google's own policies regarding child-directed content.
+
+**Data Storage**
+
+All game data (scores, progress) is stored locally on your device using standard device storage. This data is not accessible to us and is removed when the App is deleted.
+
+**Your Choices**
+
+You may reset your advertising identifier or opt out of personalized advertising through your device settings:
+- On iOS: Settings > Privacy & Security > Tracking
+
+**Changes to This Policy**
+
+We may update this Privacy Policy from time to time. Any changes will be reflected by the "Last updated" date above.
+
+**Contact Us**
+
+If you have questions about this Privacy Policy, please contact us at:
+[bibleseek@icloud.com]
